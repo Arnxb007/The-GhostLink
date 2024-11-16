@@ -35,7 +35,7 @@ Carefully solder the female USB-A port to the board.
 # Step 4: Attach the Cooling Fan
 Screw down the cooling fan with the screw head facing the front side of the PCB.
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/5ee87e2a-4c50-480b-858c-c92303115af4" width="80%" alt="Step 1">
+    <img src="https://github.com/user-attachments/assets/5ee87e2a-4c50-480b-858c-c92303115af4" width="50%" alt="Step 1">
 </p>
 
 # Step 5: Solder Final Components
