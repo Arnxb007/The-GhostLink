@@ -40,3 +40,4 @@ Complete the assembly by soldering all the components marked as "last".
 
 # 🛡️ Legal Notice
 GhostLink is intended only for ethical hacking and authorized penetration testing. Misuse of this device is strictly prohibited.
+<img src="https://github.com/user-attachments/assets/14c14d10-5586-4215-b8be-8d9e042b6086" width="70%" alt="Step 1">
