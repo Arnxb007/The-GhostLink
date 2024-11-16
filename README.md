@@ -8,6 +8,7 @@ GhostLink is a powerful and versatile penetration testing device capable of exec
 Designed for cybersecurity professionals and ethical hackers, GhostLink offers a portable solution for testing network and device security.
 
 ⚠️ Disclaimer: This tool is for educational and authorized security testing purposes only. Unauthorized use may be illegal. Always ensure you have explicit permission before testing on any system.
+
 Step by step hardware assembley:
 STEP 1: Solder all the components marked as 1 (don't solder any other componenets that are not marked)
 ![20241116_124525](https://github.com/user-attachments/assets/18c7e25b-e674-4ec4-b989-efea7b974e63)
