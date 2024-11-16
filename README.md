@@ -1,6 +1,4 @@
-![20241116_124525](https://github.com/user-attachments/assets/14c14d10-5586-4215-b8be-8d9e042b6086)🔥 GhostLink: A Multi-Function Penetration Testing Device 🔥
-
-
+🔥 GhostLink: A Multi-Function Penetration Testing Device 🔥![20241116_124525](https://github.com/user-attachments/assets/14c14d10-5586-4215-b8be-8d9e042b6086)
 GhostLink is a powerful and versatile penetration testing device designed for cybersecurity professionals and ethical hackers. With its extensive capabilities, it enables users to test network and device vulnerabilities in various environments.
 
 ⚠️ Disclaimer: This tool is for educational and authorized security testing purposes only. Unauthorized use may be illegal. Always obtain explicit permission before using it on any system.
@@ -39,9 +37,5 @@ Complete the assembly by soldering all the components marked as "last".
 ![20241116_122844](https://github.com/user-attachments/assets/12c0244f-abab-49b2-a71c-0005ab612699)
 
 
-📂 Repository Contents
-/src: Source code and scripts for GhostLink.
-/docs: Documentation and usage guides.
-/assets: Hardware design files and assembly images.
 🛡️ Legal Notice
 GhostLink is intended only for ethical hacking and authorized penetration testing. Misuse of this device is strictly prohibited.
