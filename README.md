@@ -1,5 +1,5 @@
 # 🔥 GhostLink: A Multi-Function Penetration Testing Device 🔥
-https://github.com/user-attachments/assets/14c14d10-5586-4215-b8be-8d9e042b6086
+
 
 GhostLink is a powerful and versatile penetration testing device designed for cybersecurity professionals and ethical hackers. With its extensive capabilities, it enables users to test network and device vulnerabilities in various environments.
 
@@ -23,8 +23,8 @@ Note: Do not solder any components that are not marked in this step.
 # Step 2: Solder Battery & Fan JST Connector
 Solder the JST connectors for the battery and cooling fan.
 Ensure correct polarity by checking the +/- terminals.
-![20241116_122943](https://github.com/user-attachments/assets/28d79d8c-075a-4bc1-a4b1-cb271e0158fe)
-![20241116_122904](https://github.com/user-attachments/assets/4a0d1d4d-4be1-46e1-bc04-2fed26a61774)
+<img src="![20241116_122943](https://github.com/user-attachments/assets/28d79d8c-075a-4bc1-a4b1-cb271e0158fe)" width="50%" alt="Step 1">
+<img src="![20241116_122904](https://github.com/user-attachments/assets/4a0d1d4d-4be1-46e1-bc04-2fed26a61774)" width="50%" alt="Step 1">
 
 # Step 3: Solder the Female USB-A Port
 Carefully solder the female USB-A port to the board.
