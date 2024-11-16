@@ -23,8 +23,7 @@ Note: Do not solder any components that are not marked in this step.
 # Step 2: Solder Battery & Fan JST Connector
 Solder the JST connectors for the battery and cooling fan.
 Ensure correct polarity by checking the +/- terminals.
-<img src="https://github.com/user-attachments/assets/28d79d8c-075a-4bc1-a4b1-cb271e0158fe" width="50%" alt="Step 1">
-<img src="https://github.com/user-attachments/assets/4a0d1d4d-4be1-46e1-bc04-2fed26a61774" width="50%" alt="Step 1">
+<img src="https://github.com/user-attachments/assets/28d79d8c-075a-4bc1-a4b1-cb271e0158fe" width="50%" alt="Step 1"><img src="https://github.com/user-attachments/assets/4a0d1d4d-4be1-46e1-bc04-2fed26a61774" width="50%" alt="Step 1">
 
 # Step 3: Solder the Female USB-A Port
 Carefully solder the female USB-A port to the board.
