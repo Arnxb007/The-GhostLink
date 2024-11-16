@@ -18,7 +18,7 @@ Follow the steps below to assemble your GhostLink device. Ensure you have all th
 # Step 1: Solder Initial Components
 Solder all the components marked as "1".
 Note: Do not solder any components that are not marked in this step.
-![20241116_124525](https://github.com/user-attachments/assets/645be71c-a832-4704-87f2-711e7fa35836)
+<img src="https://github.com/user-attachments/assets/645be71c-a832-4704-87f2-711e7fa35836" width="80%" alt="Step 1">
 
 # Step 2: Solder Battery & Fan JST Connector
 Solder the JST connectors for the battery and cooling fan.
@@ -31,7 +31,9 @@ Carefully solder the female USB-A port to the board.
 
 # Step 4: Attach the Cooling Fan
 Screw down the cooling fan with the screw head facing the front side of the PCB.
-![20241116_123145](https://github.com/user-attachments/assets/5ee87e2a-4c50-480b-858c-c92303115af4)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5ee87e2a-4c50-480b-858c-c92303115af4" width="80%" alt="Step 1">
+</p>
 
 # Step 5: Solder Final Components
 Complete the assembly by soldering all the components marked as "last".
