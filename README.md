@@ -1,24 +1,47 @@
-GhostLink: A Multi-Function Penetration Testing Device
-GhostLink is a powerful and versatile penetration testing device capable of executing a range of cybersecurity attacks, including:
-
-1. Wi-Fi Jamming: Disrupts Wi-Fi networks to test resilience.
-2. Bad USB & Wireless Bad USB: Delivers payloads to connected devices.
-3. Keylogging: Captures keystrokes for analysis.
-4. Additional Attacks: Supports other advanced penetration testing functionalities.
-Designed for cybersecurity professionals and ethical hackers, GhostLink offers a portable solution for testing network and device security.
-
-⚠️ Disclaimer: This tool is for educational and authorized security testing purposes only. Unauthorized use may be illegal. Always ensure you have explicit permission before testing on any system.
-
-Step by step hardware assembley:
-
-STEP 1: Solder all the components marked as 1 (don't solder any other componenets that are not marked)
-![20241116_124525](https://github.com/user-attachments/assets/18c7e25b-e674-4ec4-b989-efea7b974e63)
-
-STEP 2: Solder the battery and fan JST connector (check the +,- terminal)
-![20241116_122904](https://github.com/user-attachments/assets/d1ad647a-f330-4882-a453-9ccd0de9a54b)![20241116_122943](https://github.com/user-attachments/assets/84489b94-6500-4938-ad6a-d797e2929b12)
-
-STEP 3: Screw down the cooling fan(keep the screw head on the frontside of the pcb)![20241116_123145](https://github.com/user-attachments/assets/b419e544-978d-43b0-93b0-b0939c787d6d)![20241116_123225](https://github.com/user-attachments/assets/d154ea22-d929-486e-bd75-3fc0dd3949f7)
+![20241116_124525](https://github.com/user-attachments/assets/14c14d10-5586-4215-b8be-8d9e042b6086)🔥 GhostLink: A Multi-Function Penetration Testing Device 🔥
 
 
+GhostLink is a powerful and versatile penetration testing device designed for cybersecurity professionals and ethical hackers. With its extensive capabilities, it enables users to test network and device vulnerabilities in various environments.
+
+⚠️ Disclaimer: This tool is for educational and authorized security testing purposes only. Unauthorized use may be illegal. Always obtain explicit permission before using it on any system.
+
+🚀 Features
+Wi-Fi Jamming: Disrupts Wi-Fi networks to test resilience.
+Bad USB & Wireless Bad USB: Delivers payloads to connected devices.
+Keylogging: Captures keystrokes for analysis.
+Additional Attacks: Supports other advanced penetration testing functionalities.
+GhostLink offers a portable and efficient solution to test the security of your networks and devices.
+
+🛠️ Hardware Assembly Guide
+Follow the steps below to assemble your GhostLink device. Ensure you have all the required components and tools before starting.
+
+Step 1: Solder Initial Components
+Solder all the components marked as "1".
+Note: Do not solder any components that are not marked in this step.
+![20241116_124525](https://github.com/user-attachments/assets/645be71c-a832-4704-87f2-711e7fa35836)
+
+Step 2: Solder Battery & Fan JST Connector
+Solder the JST connectors for the battery and cooling fan.
+Ensure correct polarity by checking the +/- terminals.
+![20241116_122943](https://github.com/user-attachments/assets/28d79d8c-075a-4bc1-a4b1-cb271e0158fe)
+![20241116_122904](https://github.com/user-attachments/assets/4a0d1d4d-4be1-46e1-bc04-2fed26a61774)
+
+Step 3: Solder the Female USB-A Port
+Carefully solder the female USB-A port to the board.
+![20241116_123108](https://github.com/user-attachments/assets/0fb431ec-4afe-4aba-9706-dbb8ea903bf5)
+
+Step 4: Attach the Cooling Fan
+Screw down the cooling fan with the screw head facing the front side of the PCB.
+![20241116_123145](https://github.com/user-attachments/assets/5ee87e2a-4c50-480b-858c-c92303115af4)
+
+Step 5: Solder Final Components
+Complete the assembly by soldering all the components marked as "last".
+![20241116_122844](https://github.com/user-attachments/assets/12c0244f-abab-49b2-a71c-0005ab612699)
 
 
+📂 Repository Contents
+/src: Source code and scripts for GhostLink.
+/docs: Documentation and usage guides.
+/assets: Hardware design files and assembly images.
+🛡️ Legal Notice
+GhostLink is intended only for ethical hacking and authorized penetration testing. Misuse of this device is strictly prohibited.
