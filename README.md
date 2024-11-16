@@ -19,18 +19,24 @@ Follow the steps below to assemble your GhostLink device. Ensure you have all th
 Solder all the components marked as "1".
 Note: Do not solder any components that are not marked in this step.
 
-<img src="https://github.com/user-attachments/assets/645be71c-a832-4704-87f2-711e7fa35836" width="80%" alt="Step 1">
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/645be71c-a832-4704-87f2-711e7fa35836" width="50%" alt="Step 1">
+</p>
 
 # Step 2: Solder Battery & Fan JST Connector
 Solder the JST connectors for the battery and cooling fan.
 Ensure correct polarity by checking the +/- terminals.
 
-<img src="https://github.com/user-attachments/assets/28d79d8c-075a-4bc1-a4b1-cb271e0158fe" width="50%" alt="Step 1"><img src="https://github.com/user-attachments/assets/4a0d1d4d-4be1-46e1-bc04-2fed26a61774" width="45%" alt="Step 1">
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/28d79d8c-075a-4bc1-a4b1-cb271e0158fe" width="50%" alt="Step 1">
+</p>
 
 # Step 3: Solder the Female USB-A Port
 Carefully solder the female USB-A port to the board.
 
-![20241116_123108](https://github.com/user-attachments/assets/0fb431ec-4afe-4aba-9706-dbb8ea903bf5)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/0fb431ec-4afe-4aba-9706-dbb8ea903bf5" width="50%" alt="Step 1">
+</p>
 
 # Step 4: Attach the Cooling Fan
 Screw down the cooling fan with the screw head facing the front side of the PCB.
@@ -41,8 +47,9 @@ Screw down the cooling fan with the screw head facing the front side of the PCB.
 # Step 5: Solder Final Components
 Complete the assembly by soldering all the components marked as "last".
 
-![20241116_122844](https://github.com/user-attachments/assets/12c0244f-abab-49b2-a71c-0005ab612699)
-
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/12c0244f-abab-49b2-a71c-0005ab612699" width="50%" alt="Step 1">
+</p>
 
 # 🛡️ Legal Notice
 GhostLink is intended only for ethical hacking and authorized penetration testing. Misuse of this device is strictly prohibited.
