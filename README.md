@@ -50,6 +50,18 @@ Complete the assembly by soldering all the components marked as "last".
 <p align="center">
     <img src="https://github.com/user-attachments/assets/12c0244f-abab-49b2-a71c-0005ab612699" width="50%" alt="Step 1">
 </p>
+# Step 6: connecting the external antenna to esp8266
+First cut the internal antenna connections
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/c88e7b7e-642b-410e-aa22-7f01c34fdec2" width="50%" alt="Step 1">
+</p>
+Connect the GND to GND and the core to the core marked point
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/a4aa612b-f8b8-4c10-b9ba-4b6dd8020a19" width="50%" alt="Step 1">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/7e1591b8-ef5e-47e6-8dbb-c4c97fc33761" width="50%" alt="Step 1">
+</p>
 
 # 🛡️ Legal Notice
 GhostLink is intended only for ethical hacking and authorized penetration testing. Misuse of this device is strictly prohibited.
