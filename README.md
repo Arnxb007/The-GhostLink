@@ -54,6 +54,7 @@ Complete the assembly by soldering all the components marked as "last".
 <p align="center">
     <img src="https://github.com/user-attachments/assets/12c0244f-abab-49b2-a71c-0005ab612699" width="50%" alt="Step 1">
 </p>
+
 # Step 6: connecting the external antenna to esp8266
 First cut the internal antenna connections
 <p align="center">
