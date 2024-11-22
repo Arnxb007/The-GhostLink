@@ -66,6 +66,11 @@ Connect the GND to GND and the core to the core marked point
 <p align="center">
     <img src="https://github.com/user-attachments/assets/7e1591b8-ef5e-47e6-8dbb-c4c97fc33761" width="50%" alt="Step 1">
 </p>
+Finally it will look like this
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b68e836c-1f15-47a4-8031-793455c252e4" width="50%" alt="Step 1">
+</p>
+
 
 # 🛡️ Legal Notice
 GhostLink is intended only for ethical hacking and authorized penetration testing. Misuse of this device is strictly prohibited.
